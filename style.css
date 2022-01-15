@@ -112,6 +112,21 @@ header{
     color:orange;
 }
 
+.second-button{
+    text-align: end;
+    margin-right: 3em;
+}
+
+.second-button a{
+    text-decoration: none;
+    color: rgba(224, 44, 109, 0.87);
+    font-size: 20px;
+}
+
+.second-button i{
+    color: rgba(224, 44, 109, 0.87);
+    cursor: pointer;
+}
   /*----------------- 
         section
   ------------------ 4*/
