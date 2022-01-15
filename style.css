@@ -116,3 +116,29 @@ header{
         section
   ------------------ 4*/
 
+.myself{
+    text-align: center;
+    margin: 60px 150px;
+}
+
+.myself h1{
+    color: blue;
+}
+
+
+/* /*--------------- 
+        footer
+ --------------------
+
+ footer{
+     text-align: center;
+     padding: 50px 150px;
+     background-color: #0A0826;
+     color: white;
+ }
+
+ .social-links{
+     color: white;
+     margin-left: 10px;
+     font-size: 1.3em;
+ } */
